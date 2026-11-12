@@ -287,7 +287,7 @@ Quando o app abrir, coloque o valor `pacote/atividade` em `SPACEDESK_ATIV` ou `R
 | `unable to resolve Intent` | App sem LAUNCHER padrão | Abrir pela atividade com `-n` |
 | `Transaction failed on small parcel` | Lista de pacotes grande demais | Usar `pm path` por pacote |
 | `bad interpreter` | Fim de linha do Windows (CRLF) | `sed -i 's/\r$//' ~/monitor.sh` |
-| Janela piscando no PC | Teste na porta do spacedesk | Detectar só por ping (já é assim no Deimos) |
+| Janela piscando no PC | Teste na porta do spacedesk | Detectar só por ping |
 
 ---
 
