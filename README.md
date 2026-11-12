@@ -1,14 +1,14 @@
 <h1 align="center">🛰️ SpaceDesk Android AutoDock</h1>
 
 <p align="center">
-  O Deimos é um script para tablets Android antigos que transforma o tablet em um relógio de mesa que vira segundo monitor automaticamente.
+  O SpaceDesk Android AutoDock é um script para tablets Android antigos que transforma o tablet em um relógio de mesa que vira segundo monitor automaticamente.
   Quando o PC liga, o tablet abre o spacedesk e o traz para a frente. Quando o PC desliga, ele volta para o app de relógio.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Funcionando-brightgreen">
   <img src="https://img.shields.io/badge/Plataforma-Android-3DDC84?logo=android">
-  <img src="https://img.shields.io/badge/Execução-Termux-black?logo=gnubash">
+  <img src="https://img.shields.io/badge/Execução-Termux-red?logo=gnubash">
   <img src="https://img.shields.io/badge/Fonte-spacedesk-orange">
   <img src="https://img.shields.io/badge/Idioma-PT--BR-purple">
   <img src="https://img.shields.io/badge/Root-Não%20necessário-blue">
@@ -298,14 +298,6 @@ pkill -f monitor.sh
 rm ~/.termux/boot/start.sh
 termux-wake-unlock
 ```
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img width="500" alt="Deimos" src="COLE_AQUI_O_LINK_DA_IMAGEM" />
-</p>
 
 ---
 
